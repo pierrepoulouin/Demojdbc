@@ -8,7 +8,7 @@
 4. Les noms des clients de Lyon ayant acheté un produit pour une quantité supérieure à 180.
 5. Les noms des représentants et des clients à qui ces représentants ont vendu un produit de couleur rouge pour une quantité supérieure à 100.
 
-Exercice #2 : Niveau de difficulté : 3x500 =3000
+Exercice #2 : Niveau de difficulté : 3
 
 Enoncé de l'exercice
 Un organisme de gestion de spectacles, de salles de concert et de vente de billets de spectacles gère une base de données dont le schéma relationnel est le suivant :
