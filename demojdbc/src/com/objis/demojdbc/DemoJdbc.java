@@ -13,7 +13,7 @@ public class DemoJdbc {
 		//Connexion
 		String url= "jdbc:mysql://localhost/formation";
 		String user="root";
-		String pwd ="rootpwd";
+		String pwd ="Pierrebing59";
 
 		//chargement du Driver
 		try {

@@ -40,7 +40,7 @@ public class Atelier {
 		Connection cn = null;
 		String url = "jdbc:mysql://localhost/gestionspectacles";
 		String user = "root";
-		String pwd = "rootpwd";
+		String pwd = "Pierrebing59";
 
 		try {
 			//récupération du driver
